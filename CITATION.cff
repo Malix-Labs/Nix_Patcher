@@ -1,8 +1,8 @@
 # cff-version: 1.2.0
 # type: software
-# title: "<TITLE>"
-# abstract: "<DESCRIPTION>"
-# repository-code: "https://github.com/Malix-Labs/<REPOSITORY>"
+# title: "Nix Patcher"
+# abstract: "Patcher Utils for Nix"
+# repository-code: "https://github.com/Malix-Labs/Nix_Patcher"
 # license: AGPL-3.0-or-later
 # authors:
 #   - alias: "Malix"
